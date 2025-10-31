@@ -1,6 +1,9 @@
 # Báo cáo tài chính Viettel Global
 ## Bach Viet Anh
 
+![Logo](BCTC.png)
+![Logo](BCKQKD.png)
+
 
 ## Dataset
 
